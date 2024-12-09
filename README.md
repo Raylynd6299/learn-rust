@@ -34,3 +34,12 @@ Numeros sin signo
 - u32 
 
 Tipo unico ` -> ()`
+
+
+* Paquetes 
+https://crates.io
+
+
+### Que significa unwrap
+ 
+No tiene tipo de dato nulo, Si un valor puede o no existir se usa un tipo Option<T>, siendo T, el tipo base
